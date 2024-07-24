@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    printf("navya sri-192211260");
+    printf("radhika-192210126");
   int n;
   double arr[100];
   printf("navya sri-192211260")
