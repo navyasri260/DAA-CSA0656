@@ -3,7 +3,7 @@ int main() {
     printf("radhika-192210126");
   int n;
   double arr[100];
-  printf("navya sri-192211260")
+  printf("radhika-192210126");
   printf("Enter the number of elements (1 to 100): ");
   scanf("%d", &n);
 
